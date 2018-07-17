@@ -9,6 +9,7 @@ public class MavenTest
 	public void testA()
 	{
 		Reporter.log("hiii....", true);
+		Reporter.log("bye....", true);
 	}
 
 }
